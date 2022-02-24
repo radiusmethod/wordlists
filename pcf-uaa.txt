@@ -141,5 +141,5 @@ GET /Groups/{groupId}/members
 POST /Groups/{groupId}/members
 DELETE /Groups/{groupId}/members/{memberId}
 GET /identity-zones
-POST /identity-zones/{identityZoneId}/clients")
+POST /identity-zones/{identityZoneId}/clients
 DELETE /identity-zones/{identityZoneId}/clients/{clientId}
